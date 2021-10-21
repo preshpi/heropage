@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.right{
+    background: linear-gradient(180deg, #010F43 0%, #09174B 124.76%);
+}
+
+.left{
+    background-image: url(./img/telescopes-1722668_960_720\ 1.jpg);
+}
+
